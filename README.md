@@ -1,6 +1,8 @@
+![12 001](https://user-images.githubusercontent.com/52453582/135727545-779c5f26-d20a-4cf7-859b-ae2ede5771f1.jpeg)
+
+
 # Price-Curves
 an Aragon App to create token price curves for DAOs </p>
-[![figma](https://user-images.githubusercontent.com/52453582/134105644-92379e2b-eb88-43c5-9eb5-7e3b8f1fc3f9.png)]() 
 [![discord](https://user-images.githubusercontent.com/52453582/134105526-58408c2f-e6df-422b-9e81-758b2387e3ed.png)](https://discord.gg/QZ6FCJaR4T)
 
 ## Table of Contents
